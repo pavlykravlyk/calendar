@@ -1,0 +1,30 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;"
+    version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <symbol id="layout-icon" viewBox="0 0 32 32">
+            <path fill="none" stroke="currenrColor"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"
+                stroke-width="1.6842"
+                d="M0.842 0.842h11.79v11.79h-11.79v-11.79zM19.37 0.842h11.79v11.79h-11.79v-11.79zM0.842 19.37h11.79v11.79h-11.79v-11.79zM19.37 19.37h11.79v11.79h-11.79v-11.79z"></path>
+        </symbol>
+        <symbol id="next-icon" viewBox="0 0 17 32">
+            <path fill="none" stroke="currentColor"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"
+                stroke-width="1.6842" d="M0.842 0.842l15.159 15.159-15.159 15.159"></path>
+        </symbol>
+        <symbol id="prev-icon" viewBox="0 0 17 32">
+            <path fill="none" stroke="currentColor"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"
+                stroke-width="1.6842" d="M16.001 0.842l-15.159 15.159 15.159 15.159"></path>
+        </symbol>
+        <symbol id="search-icon" viewBox="0 0 32 32">
+            <path fill="none" stroke="currentColor"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"
+                stroke-width="1.641" d="M31.181 31.181l-9.026-9.026"></path>
+            <path fill="none" stroke="currentColor"
+                stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4"
+                stroke-width="1.641"
+                d="M13.129 25.437c6.797 0 12.308-5.511 12.308-12.308s-5.511-12.308-12.308-12.308c-6.797 0-12.308 5.511-12.308 12.308s5.511 12.308 12.308 12.308z"></path>
+        </symbol>
+    </defs>
+</svg>
