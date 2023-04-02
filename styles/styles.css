@@ -128,8 +128,7 @@ button {
     align-items: center;
 }
 
-.panel__item:nth-child(3) .panel__notes,
-.panel__item:nth-child(4) .panel__notes {
+.panel__item:nth-child(n+3):nth-child(-n+4) .panel__notes {
     position: relative;
     background-color: #3D83F926;
     border-left: 6px solid #3D83F9;
