@@ -264,7 +264,7 @@ button {
 /* ////////////////// FILTER ////////////////////// */
 
 .nav-bar__filter {
-    padding: 105px 0;
+    padding-top: 105px;
     border-top: 2px solid #0000002b;
     box-shadow: inset 0 2px 0 #ffffff21;
 }
@@ -291,7 +291,7 @@ button {
 }
 
 .filter__btn {
-    min-width: 285px;
+    min-width: 271px;
     min-height: 80px;
     border-radius: 12px;
     text-transform: uppercase;
