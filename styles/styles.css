@@ -33,6 +33,9 @@ button {
 
 .calendar {
     display: flex;
+    width: 100%;
+    max-width: 2335px;
+    margin: 0 auto;
 }
 
 /* //////////////////////////////////////////////// */
@@ -40,6 +43,12 @@ button {
 /* //////////////////////////////////////////////// */
 
 .panel {
+    flex-basis: 0;
+    flex-shrink: 0;
+    flex-grow: 1535;
+    max-width: 1535px;
+    min-width: 744px;
+    width: 100%;
     padding: 85px 140px;
 }
 
@@ -49,7 +58,6 @@ button {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    min-width: 1255px;
     min-height: 135px;
     margin-bottom: 100px;
     border-bottom: 2px solid #F3F3F3;
@@ -163,6 +171,10 @@ button {
 /* //////////////////////////////////////////////// */
 
 .nav-bar {
+    flex-basis: 0;
+    flex-grow: 800;
+    flex-shrink: 0;
+    width: 100%;
     max-width: 800px;
     padding: 100px 85px;
     background-color: #2A2E41B2;
