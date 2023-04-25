@@ -257,21 +257,6 @@ button {
     border-radius: 50%;
 }
 
-.table__body .day-cell:hover, .table__body .day-cell:focus{
-    background-color: var(--accent-color);
-    cursor: pointer;
-}
-
-.table__body .table__row:nth-child(5) .table__cell:nth-child(n+5) .day-cell {
-    opacity: 0.6;
-}
-
-.table__body .table__row:nth-child(5) .table__cell:nth-child(n+5) .day-cell:hover,
-.table__body .table__row:nth-child(5) .table__cell:nth-child(n+5) .day-cell:focus {
-    background-color: unset;
-    cursor: auto;
-}
-
 /* ////////////////// FILTER ////////////////////// */
 
 .nav-bar__filter {
